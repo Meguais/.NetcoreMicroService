@@ -1,0 +1,3 @@
+NewsBuddy -> https://127.0.0.1:54988
+TicketBuddy -> https://127.0.0.1:54987
+PaymentBuddy -> https://127.0.0.1:54986
